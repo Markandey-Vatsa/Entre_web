@@ -1,0 +1,77 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+.heading {
+    font-family:cursive;
+    text-align: center;
+    background-color: burlywood;
+    height: 100px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+}
+
+.navig{
+    font-family:cursive;
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 150px;
+    color: black;
+   
+}
+
+.navigation{
+    background-color: gold ;
+    border-radius: 20px;
+    height: 50px ;
+    border-color: black ;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.main_h{
+    font-family:cursive;
+    text-align: center;
+
+}
+
+.About_para{
+    font-family:cursive;
+    
+    text-align: center;
+    font-size: larger;
+    
+}
+
+.logo{
+    border-color: black;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 200px;
+    margin-left: 600px;
+    margin-right: 600px;
+
+    
+}
+
+footer{
+    text-align: center;
+
+}
+
+.ft{
+    font-family: cursive;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+    Homepage: Introduce the brand and its concept. Highlight key benefits such as sustainability, affordability, and variety.
+
+    Create a Style Profile: Users create a style profile by answering questions about their size, style preferences, and occasion types (e.g., work, casual, formal).
+
+    Receive Personalized Recommendations: Based on the style profile, users receive personalized clothing recommendations. They can browse through the selections and add items to their virtual closet.
+
+    Choose Rental Plan: Users select a rental plan based on their needs (e.g., number of items, rental duration). Plans can range from a single item rental to a monthly subscription.
+
+    Order and Receive Clothing: Once the rental plan is selected, users can place an order. The clothing items are shipped to their address with a prepaid return label.
+
+    Try on and Enjoy: Users try on the clothing items and enjoy wearing them for the rental period. They can mix and match items from their virtual closet to create different outfits.
+
+    Return or Purchase: At the end of the rental period, users can choose to return the items using the prepaid return label or purchase them at a discounted price.
+
+    Customer Account: Users have access to a customer account where they can manage their virtual closet, track orders, and update their style profile.
+
+    Customer Support: Provide easy access to customer support for any questions or issues users may have.
+
+    Feedback and Reviews: Encourage users to leave feedback and reviews to improve the rental experience and help other users make decisions.
